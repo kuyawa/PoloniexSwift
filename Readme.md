@@ -1,6 +1,6 @@
 # POLONIEX SWIFT
 
-PoloniexSwift is a wrapper for all API calls offered by Poloniex to access your crypto account. It has all public and trading methods some of which require your secret key and a hash of the information sent using your secret code. Be careful not to store your secret info in your code.
+PoloniexSwift is a wrapper for all API calls offered by Poloniex to access market data and your crypto account. It has all public and trading methods some of which require your secret key and a hash of the request. Be careful not to store your secret info in your code.
 
 Link to Poloniex API: [https://poloniex.com/support/api/](https://poloniex.com/support/api/)
 
