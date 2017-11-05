@@ -20,6 +20,8 @@ Else, use the json dictionary provided:
 
     print(response.json["BTC_LTC"]["last"])
 
+Just drop the Poloniex.swift file in your project and do the bridging header dance to include CryptoCommon lib
+
 Version 2 will use Structs for all responses instead of json
 
 ## Tools
